@@ -4,9 +4,9 @@ Ryo-Bot is a Discord bot designed to provide various features and functionality 
 
 ## Features
 
-- Anime Search:** Plays music from various sources.
-- User Suggestion:** Users can give suggestions through the input modal.
-- Interaction:** Various commands and interactive features.
+- **Anime Search:** Plays music from various sources.
+- **User Suggestion:** Users can give suggestions through the input modal.
+- **Interaction:** Various commands and interactive features.
 
 ## Prerequisites
 
@@ -19,7 +19,7 @@ Make sure you have installed:
 
 1. **Clone Repository:**
 
-   ``bash
+   ```bash
    git clone https://github.com/VernSG/Ryo-Bot.git
 
 2. **Log into Project Directory:**
@@ -46,7 +46,7 @@ Edit config.json and add the Discord bot token, client ID, guild ID, and MongoDB
 # Usage
 
 This bot can be used for various purposes according to the configured commands. To see the list of commands, type:
-``bash
+```bash
 $help
 
 
