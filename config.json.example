@@ -1,0 +1,8 @@
+{
+    "token": "YOUR_BOTTOKEN",
+    "prefix": "$",
+    "clientId": "YOUR_CLIENTID",
+    "guildId": "YOUR_GUILDID",
+    "mongoURI": "YOUR_MONGOURI"
+}
+  
