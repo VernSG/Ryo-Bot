@@ -13,7 +13,7 @@ Ryo-Bot is a Discord bot designed to provide various features and functionality 
 Make sure you have installed:
 
 - [Node.js](https://nodejs.org/) (v20.14.0 or later)
-- MongoDB](https://www.mongodb.com/try/download/community) (for storing data)
+- [MongoDB](https://www.mongodb.com/try/download/community) (for storing data)
 
 ## Installation
 
